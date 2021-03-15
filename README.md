@@ -1,1 +1,3 @@
-# git-mk-acc
+3TD Kacper Popiel
+Tworzenie REPO
+ok
